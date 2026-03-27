@@ -73,10 +73,12 @@ Selenium_Secim_Portali_Projesi_Grafiği.png : Bu dosyada, işlemlerin nasıl yap
 
 
 **📌 Ek Açıklama** 
+---
 Partilerin ve Adaylara ait olan oy sayisi ve oy oranlari verilerinin yanında, ek olarak, şehir ve ilçelerde yer alan Kayıtlı Seçmen Sayisi, Geçerli Oy Sayisi ve Oy Kullanan Seçmen Sayısı gibi veriler de veritabanına kayıt edilmiştir 
 
 
 **Diğer Bilgiler**
+---
 ⚠️ Bu depo (repository), projenin mimari yapısını ve kodlama standartlarını göstermek için tasarlanmıştır. Güvenlik ve gizlilik nedeniyle bazı API yapılandırmaları ve özel anahtarlar dahil edilmemiştir; bu sebeple proje "tak-çalıştır" modunda değildir, bir teknik portfolyo örneğidir.
 
 

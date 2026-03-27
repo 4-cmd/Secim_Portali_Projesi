@@ -67,6 +67,7 @@ The results of the Municipal Elections, Parliamentary Elections, and Presidentia
 • Selenium_Secim_Portali_Projesi_Grafiği.png: This file shows how the processes are carried out with a short graphic. 
 
 **📌 Additional Explanation**
+---
 In addition to the vote count and vote percentages for parties and candidates, data such as the number of registered voters, valid votes, and the number of voters who cast their votes in cities and districts are also recorded in the database.
 Other Information
 

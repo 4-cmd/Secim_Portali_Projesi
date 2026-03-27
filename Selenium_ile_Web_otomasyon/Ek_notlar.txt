@@ -1,0 +1,88 @@
+
+Belediye_Baskanligi_Secimleri Bitmiş olacak
+
+# İlk element'in ID'sini al
+Belediye_Baskanligi_Secimleri = seçimler_listesi[0] # BELEDİYE BAŞKANLIĞI SEÇİMLERİ seçildi
+
+id_collapse_linkler
+Burası Çok Önemli (Türkiye İl Seçimleri için Yapıldı)
+* İlk Değer : 2 HAZİRAN 2024 YENİLEME SEÇİMİ | BELEDİYE BAŞKANLIĞI SEÇİMLERİ (02 Haziran 2024) Tamamlandı index 0 
+* İkinci Değer :  31 MART 2024 MAHALLİ İDARELER GENEL SEÇİMİ | BELEDİYE BAŞKANLIĞI SEÇİMLERİ (31 Mart 2024) Tamamlandı index 1
+* Üçüncü Değer : 31 MART 2019 MAHALLİ İDARELER GENEL SEÇİMİ | BELEDİYE BAŞKANLIĞI SEÇİMLERİ (31 Mart 2019) Tamamlandı index 2
+* Dödüncü Değer : 30 MART 2014 MAHALLİ İDARELER GENEL SEÇİMİ | BELEDİYE BAŞKANLIĞI SEÇİMLERİ (30 Mart 2014) Tamamlandı index 3 
+* Beşinci Değer : 29 MART 2009 MAHALLİ İDARELER GENEL SEÇİMİ | BELEDİYE BAŞKANLIĞI SEÇİMLERİ (29 Mart 2009) Tamamlandı index 4
+
+id_collapse_linkler
+Burası Çok Önemli (Türkiye ilçe seçimleri)
+* İlk Değer : 2 HAZİRAN 2024 YENİLEME SEÇİMİ | BELEDİYE BAŞKANLIĞI SEÇİMLERİ (02 Haziran 2024) Düzenleme Tamamlandı
+* İkinci Değer :  31 MART 2024 MAHALLİ İDARELER GENEL SEÇİMİ | BELEDİYE BAŞKANLIĞI SEÇİMLERİ (31 Mart 2024) Düzenleme Tamamlandı
+* Üçüncü Değer : 31 MART 2019 MAHALLİ İDARELER GENEL SEÇİMİ | BELEDİYE BAŞKANLIĞI SEÇİMLERİ (31 Mart 2019) Düzenleme Tamamlandı
+* Dödüncü Değer : 30 MART 2014 MAHALLİ İDARELER GENEL SEÇİMİ | BELEDİYE BAŞKANLIĞI SEÇİMLERİ (30 Mart 2014) Düzenleme Tamamlandı 
+* Beşinci Değer : 29 MART 2009 MAHALLİ İDARELER GENEL SEÇİMİ | BELEDİYE BAŞKANLIĞI SEÇİMLERİ (29 Mart 2009) Düzenleme Tamamlandı 
+
+
+
+
+
+Milletvekili Genel Seçimi = seçimler_listesi[5] # Milletvekili Genel Seçimi seçildi
+
+Türkiye Milletvekili Genel Seçimleri İl Bazı değerler 
+
+(Burada bazı işlemler ters gitti daha sonra bak)
+Ankara İstanbul ve Bursa gibi işlemler için özel işlemler yapılacak
+
+İZMiR - 1 ve İZMİR - 2 için UST ID 46 olarak atandı 
+İSTANBUL - 1, İSTANBUL - 2 ve İSTANBUL 3 değerlernin UST ID Değeri 45 olarak atandı 
+BURSA - 1 ve BURSA -2 Değlerine UST_ID Değerleri 26 olarak atandi 
+'ANKARA-1','ANKARA-2','ANKARA-3 UST ID değerleri artık 12'dir 
+
+
+
+Türkiye il seçimleri
+collapse5 : Milletvekili genel seçimleri seçildikten sonra sırayla bu seçimlere ait olan linklerden her biri 
+- CUMHURBAŞKANI VE 28.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | MİLLETVEKİLİ GENEL SEÇİMİ (14 Mayıs 2023) index 0 Tamamlandı
+- CUMHURBAŞKANI VE 27.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | MİLLETVEKİLİ GENEL SEÇİMİ (24 Haziran 2018) index 1 Tamamlandı
+- 26.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | MİLLETVEKİLİ GENEL SEÇİMİ (01 Kasım 2015) index 2 Tamamlandı
+- 25.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | MİLLETVEKİLİ GENEL SEÇİMİ (07 Haziran 2015) index 3 Tamamlandı
+- 24.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | MİLLETVEKİLİ GENEL SEÇİMİ (12 Haziran 2011) index 4 Tamamlandı
+
+
+Türkiye ilçe seçimleri 
+İstisnai illerin ilçeleri için durum (Staleexception gibi bir hata var sanırım sadece ilk değerler Tamamlandı)
+- CUMHURBAŞKANI VE 28.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | MİLLETVEKİLİ GENEL SEÇİMİ (14 Mayıs 2023) index 0 Tamamlandı  
+- CUMHURBAŞKANI VE 27.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | MİLLETVEKİLİ GENEL SEÇİMİ (24 Haziran 2018) index 1 Tamamlandı 
+- 26.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | MİLLETVEKİLİ GENEL SEÇİMİ (01 Kasım 2015) index 2 Tamamlandı 
+- 25.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | MİLLETVEKİLİ GENEL SEÇİMİ (07 Haziran 2015) index 3 Tamamlandı 
+- 24.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | MİLLETVEKİLİ GENEL SEÇİMİ (12 Haziran 2011) index 4 Tamamlandı
+
+
+Türkiye ilçe seçimleri genel
+- CUMHURBAŞKANI VE 28.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | MİLLETVEKİLİ GENEL SEÇİMİ (14 Mayıs 2023) index 0  Tamamlandı
+- CUMHURBAŞKANI VE 27.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | MİLLETVEKİLİ GENEL SEÇİMİ (24 Haziran 2018) index 1 Tamamlandı
+- 26.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | MİLLETVEKİLİ GENEL SEÇİMİ (01 Kasım 2015) index 2  Tamamlandı
+- 25.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | MİLLETVEKİLİ GENEL SEÇİMİ (07 Haziran 2015) index 3  Tamamlandı
+- 24.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | MİLLETVEKİLİ GENEL SEÇİMİ (12 Haziran 2011) index 4 Tamamlandı
+
+
+
+
+
+
+ div[id='collapse6'] seçilmeli ve bunlardan sadece 4 tane var 
+
+ Türkiye Aday İl Seçimleri
+
+*  CUMHURBAŞKANI SEÇİMİNİN İKİNCİ OYLAMASI | CUMHURBAŞKANI SEÇİMİ (28 Mayıs 2023) index 0 Tamamlandı
+*  CUMHURBAŞKANI VE 28.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | CUMHURBAŞKANI SEÇİMİ (14 Mayıs 2023) index 1 Tamamlandı
+*  CUMHURBAŞKANI VE 27.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | CUMHURBAŞKANI SEÇİMİ (24 Haziran 2018) index 2 Tamamlandı
+*  ONİKİNCİ CUMHURBAŞKANI SEÇİMİ | CUMHURBAŞKANI SEÇİMİ (10 Ağustos 2014) index 3 Tamamlandı
+
+ Türkiye Aday İlçe Seçimleri
+
+*  CUMHURBAŞKANI SEÇİMİNİN İKİNCİ OYLAMASI | CUMHURBAŞKANI SEÇİMİ (28 Mayıs 2023) index 0 Tamamlandı
+*  CUMHURBAŞKANI VE 28.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | CUMHURBAŞKANI SEÇİMİ (14 Mayıs 2023) index 1 Tamamlandı
+*  CUMHURBAŞKANI VE 27.DÖNEM MİLLETVEKİLİ GENEL SEÇİMİ | CUMHURBAŞKANI SEÇİMİ (24 Haziran 2018) index 2 Tamamlandı
+*  ONİKİNCİ CUMHURBAŞKANI SEÇİMİ | CUMHURBAŞKANI SEÇİMİ (10 Ağustos 2014) index 3 Tamamlandı
+
+
+

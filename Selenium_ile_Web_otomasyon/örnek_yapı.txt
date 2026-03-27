@@ -1,0 +1,19 @@
+Loop başlangıcı (index=0)
+    ↓
+Link tıkla (1. seçim)
+    ↓
+VERİ TOPLA (o sayfada işlem yap)
+    ↓
+driver.back() ← GERİ DÖNERRRR
+    ↓
+Loop sonu, sonraki iterasyona geç (index=1)
+    ↓
+Link tıkla (2. seçim)
+    ↓
+VERİ TOPLA
+    ↓
+driver.back() ← TEKRAR GERİ DÖNERRRR
+    ↓
+... (tüm linkler için tekrarla)
+    ↓
+Loop bitince driver.quit() ile kapat

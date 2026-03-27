@@ -8,13 +8,21 @@ Ardından Bu Bilgiye sahip olan bir LLM ile Streamlit üzerinden soru cevap yapa
 **💻 Proje'de Kullanılan Teknolojiler** 
 ---
 • Veri Doğrulama : Pydantic-Settings 
+
 • ORM : (Async) SqlAlchemy 
+
 • Web Otomasyonu : Selenium 
+
 • Migration İşlemleri : Alembic 
+
 • Arayüz : Streamlit 
+
 • LLM Çalıştıran Platform : Ollama 
+
 • LLM Model İsmi : kimi-k2.5:cloud
+
 • Log İzleme : Logging 
+
 • Ajan Yönetimi : Langchain 
 
 

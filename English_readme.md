@@ -71,4 +71,6 @@ The results of the Municipal Elections, Parliamentary Elections, and Presidentia
 In addition to the vote count and vote percentages for parties and candidates, data such as the number of registered voters, valid votes, and the number of voters who cast their votes in cities and districts are also recorded in the database.
 Other Information
 
+
+
 ⚠️ This repository is designed to demonstrate the project's architecture and coding standards. Due to security and privacy reasons, some API configurations and private keys have not been included; therefore, the project is not in "plug-and-play" mode, but is an example of a technical portfolio.

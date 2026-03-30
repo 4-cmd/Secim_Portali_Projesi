@@ -1,4 +1,4 @@
-**🎯 Objective of Project **
+**🎯 Objective of Project**
 ---
 
 The results of the Municipal Elections, Parliamentary Elections, and Presidential Elections were extracted from the website https://acikveri.ysk.gov.tr/secim-sonuc-istatistik/secim-sonuc using Selenium. Then, a program was developed using Streamlit to conduct question-and-answer sessions with an LLM that possesses this information.
